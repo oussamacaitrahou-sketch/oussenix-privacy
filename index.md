@@ -4,63 +4,84 @@
 
 ## 1. Introduction
 
-Oussenix Seller Tools ("the App") is a seller productivity application designed to help users estimate profits, compare supplier costs, research product profitability, and organize product information.
+Oussenix Seller Tools ("the App") is a productivity application that helps online sellers calculate estimated profits, compare supplier costs, research product profitability, and save product information.
 
-We respect your privacy and aim to be transparent about how information is handled within the App.
-
-For privacy questions, contact: **oussa.mac.aitrahou@gmail.com**
+We respect your privacy and are committed to explaining how information is handled.
 
 ## 2. Information You Enter
 
-The App allows users to enter information such as:
+The App allows you to enter product names, supplier links, prices, shipping costs, marketplace fee estimates, and other business-related information.
 
-- Product names and supplier links
-- Product prices and shipping costs
-- Marketplace fee estimates
-- Supplier comparisons
-- Profit calculations and saved product records
-
-In the current version, these features operate primarily on your device.
+The current core features store saved product records and supplier comparisons locally on your device. The App does not currently provide user accounts or cloud synchronization.
 
 ## 3. Local Data Storage
 
-The App uses local device storage to retain saved products and supplier comparisons.
+The App uses local device storage to remember saved records and preferences.
 
-This information is used to display saved records and calculate estimated financial results.
+This information is used to provide the App's functions and is not intentionally uploaded to our own servers by the current core features.
 
-The App does not currently provide user accounts or cloud synchronization.
+## 4. Advertising and Third-Party Services
 
-## 4. Data Collection and Sharing
+The Android version integrates Google AdMob, an advertising service provided by Google LLC.
 
-Based on the current implementation reviewed, the main seller tools do not intentionally transmit saved product records or supplier comparisons to a developer-operated server.
+When advertising services operate, Google and its advertising partners may collect or process information including:
 
-No advertising or analytics service has been identified in the reviewed application dependencies.
+- IP addresses and approximate location derived from IP addresses.
+- Device identifiers, including advertising identifiers where available and permitted.
+- Advertising interactions and App usage information.
+- Diagnostic and performance information.
 
-This statement applies to the current version and will be updated if additional services or data-processing features are introduced.
+Google may use this information for advertising, measurement, analytics, security, and fraud prevention, subject to applicable requirements and user choices.
 
-## 5. Data Retention and Deletion
+For more information, visit:
 
-Saved records remain on your device until you delete them through available App controls or clear the App's local storage.
+[Google Privacy Policy](https://policies.google.com/privacy)
 
-Uninstalling the App normally removes its locally stored data, subject to any device or operating-system backup and restore mechanisms.
+[How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites)
 
-## 6. Security
+## 5. Advertising Consent and Privacy Choices
 
-The App relies on the device's operating-system storage protections for locally stored information.
+Where required, the App uses Google's User Messaging Platform (UMP) to request and manage advertising consent.
 
-Users should avoid entering passwords, payment card numbers, or other sensitive credentials into product descriptions or supplier fields.
+Users may be offered options to consent, decline consent, or manage their preferences.
 
-## 7. Children's Privacy
+Where applicable, users can revisit their advertising privacy choices through the App's privacy settings.
 
-Oussenix Seller Tools is intended for people using business and e-commerce productivity tools. It is not specifically designed for children.
+The availability of personalized or non-personalized advertising depends on applicable laws, consent status, and advertising platform settings.
 
-## 8. Changes to This Policy
+## 6. Data Sharing
 
-We may update this Privacy Policy when the App's functionality or data practices change. The revised policy will include an updated effective date.
+Locally saved product and supplier records are not intentionally transmitted to our own servers by the current core features.
 
-## 9. Contact Us
+Google and its advertising partners may receive technical and advertising-related information as described above when advertising services operate.
 
-For questions or concerns about this Privacy Policy, contact:
+We do not sell locally saved product records to third parties.
+
+## 7. Data Retention and Deletion
+
+Saved product records remain on the device until deleted through available App controls or by clearing the App's local data.
+
+Uninstalling the App generally removes locally stored information, subject to device backup and restore mechanisms.
+
+Advertising-related information processed by Google is subject to Google's applicable retention practices and privacy controls.
+
+## 8. Security
+
+The App relies on operating-system protections for locally stored information.
+
+Users should avoid entering sensitive credentials or payment information into product and supplier fields.
+
+## 9. Children's Privacy
+
+The App is intended for general seller and business productivity purposes and is not specifically designed for children.
+
+## 10. Changes to This Policy
+
+We may update this policy when the App, advertising integrations, or data practices change. Updates will be reflected by revising the date shown above.
+
+## 11. Contact Us
+
+For questions about this Privacy Policy, contact:
 
 **Oussenix Seller Tools**
 
